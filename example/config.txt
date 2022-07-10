@@ -1,0 +1,2 @@
+Prefix plugins/Kraken2Translate/example
+Plugin Kraken2Translate inputfile parameters.kraken2translate.txt outputfile output.kraken2
